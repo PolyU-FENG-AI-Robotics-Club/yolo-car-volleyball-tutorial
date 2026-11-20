@@ -1,0 +1,54 @@
+{
+  "version": "v1.1.0",
+  "assets": {
+    "models/yolo11n.pt": {
+      "sha256": "0ebbc80d4a7680d14987a577cd21342b65ecfd94632bd9a8da63ae6417644ee1",
+      "bytes": 5613764
+    },
+    "data/coco128.zip": {
+      "sha256": "61e5e3028863d8ffc3b81d6a514603954889f0edd5e4b44c4ce60b2da99aeb8e",
+      "bytes": 6983030
+    },
+    "data/validation/traffic-720p.mp4": {
+      "sha256": "d5ea1db49cf47e238746ea42ebf89a5b827623e4e27458996df969708ff011c7",
+      "bytes": 18431554
+    },
+    "data/validation/volleyball/volleyball-720p.mp4": {
+      "sha256": "a0ac7400a0d06b378fa69d1123f0562abe901e1a81b7210abcfaecb0e859a9f1",
+      "bytes": 16399649
+    },
+    "data/validation/volleyball/manifest.json": {
+      "sha256": "4da0398dcedd5340b444dac251f4b659660f0ad0606366e892a6990ff8b3a679",
+      "bytes": 1258
+    }
+  },
+  "car_validation_video": {
+    "frames": 538,
+    "fps": 25,
+    "used_for_training": false
+  },
+  "volleyball_validation_video": {
+    "title": "Paris Volley - Chaumont, 18 February 2014 - 26",
+    "author": "Shev123",
+    "source_page": "https://commons.wikimedia.org/wiki/File:Paris_Volley_-_Chaumont,_18_February_2014_-_26.webm",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Paris_Volley_-_Chaumont%2C_18_February_2014_-_26.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "license": "CC0 1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "frames": 387,
+    "fps": 23.976023976023978,
+    "duration_seconds": 16.141125,
+    "width": 1280,
+    "height": 720,
+    "transformation": "Decoded video frames resized to 1280x720 and encoded at a fixed 24000/1001 FPS; audio omitted. Output timing is 16.141125 seconds; source container duration is approximately 17.14 seconds.",
+    "original_sha256": "c5461513eed74f371c957ee5fa1645c132499da953e5c425846e6591fbbf7a33",
+    "sha256": "a0ac7400a0d06b378fa69d1123f0562abe901e1a81b7210abcfaecb0e859a9f1",
+    "role": "Held-out video for student visual validation; no frames or derived images may be used for training",
+    "training_dataset_overlap": "Students must inspect the downloaded training set for the same recording; full dataset not audited in the starter package."
+  },
+  "not_bundled": [
+    "Conda environment",
+    "Python packages",
+    "Volleyball training dataset",
+    "Student volleyball solution"
+  ]
+}

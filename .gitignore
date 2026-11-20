@@ -1,0 +1,10 @@
+.conda/
+.yolo/
+.cache/
+__pycache__/
+data/
+models/
+outputs/
+dist/
+*.part
+.env

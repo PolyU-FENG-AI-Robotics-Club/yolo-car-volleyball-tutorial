@@ -1,0 +1,18 @@
+{
+  "title": "Paris Volley - Chaumont, 18 February 2014 - 26",
+  "author": "Shev123",
+  "source_page": "https://commons.wikimedia.org/wiki/File:Paris_Volley_-_Chaumont,_18_February_2014_-_26.webm",
+  "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Paris_Volley_-_Chaumont%2C_18_February_2014_-_26.webm?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "license": "CC0 1.0",
+  "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "frames": 387,
+  "fps": 23.976023976023978,
+  "duration_seconds": 16.141125,
+  "width": 1280,
+  "height": 720,
+  "transformation": "Decoded video frames resized to 1280x720 and encoded at a fixed 24000/1001 FPS; audio omitted. Output timing is 16.141125 seconds; source container duration is approximately 17.14 seconds.",
+  "original_sha256": "c5461513eed74f371c957ee5fa1645c132499da953e5c425846e6591fbbf7a33",
+  "sha256": "a0ac7400a0d06b378fa69d1123f0562abe901e1a81b7210abcfaecb0e859a9f1",
+  "role": "Held-out video for student visual validation; no frames or derived images may be used for training",
+  "training_dataset_overlap": "Students must inspect the downloaded training set for the same recording; full dataset not audited in the starter package."
+}
